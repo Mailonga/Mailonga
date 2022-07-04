@@ -6,6 +6,7 @@
 - 👯 Buscando locais em que possa me desenvolver profissionalmente e ao mesmo tempo me aprofundar na área de Desenvolvimento. 
 - 📫 E-mail: mailongaalbuquerque4@gmail.com
 - ⚡ Fun fact: Começei a Estudar Linguagem de Programação e Programas em si a 1 ano e 6 meses, apesar de contraditório estou Estudando curiosamente Java ao mesmo tempo que estudo a área de Front-End.
+- Utilizo como Repositório Principal o MyLo.
 
 ##
 
