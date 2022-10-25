@@ -1,8 +1,8 @@
 ### Hi! I'm Mailonga Albuquerque, let me introduce myself to you first...
 
 - 🔭 Atualmente Faço Projetos Pessoais na Área de Front-END.
-- 🌱 Estudando React.js.
-- 🌱 No momento estou no Nível Intermediário do English.
+- 🌱 Estudando React.js e Java.
+- 🌱 No momento estou no Nível Avançado do English.
 - 👯 Buscando locais em que possa me desenvolver profissionalmente e ao mesmo tempo me aprofundar na área de Desenvolvimento de Sistemas. 
 - 📫 E-mail: mailongaalbuquerque4@gmail.com
 - ⚡ Fun fact: Apesar de contraditório estou Estudando curiosamente Java ao mesmo tempo que estudo a área de Front-End.
